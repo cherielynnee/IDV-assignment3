@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>How do students in Singapore travel to school?</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <style>
+    body {
+      font-family: 'Georgia', serif;
+      margin: 80px;
+      background-color: #ffeed9;
+      color: #013440;
+    }
+    h1 {
+      color: #013440;
+      text-align: center;
+    }
+    h3 {
+      color: #013440;
+      text-align: center;
+    }
+    p{
+        text-align:center;
+    }
+    .filters {
+      display: flex;
+      gap: 1rem;
+      margin-bottom: 1.5rem;
+      flex-wrap: wrap;
+      background-color: #f9e3c8;
+      padding: 10px;
+      border-radius: 10px;
+      color: #013440;
+    }
+    label {
+      font-weight: bold;
+    }
+    select {
+      padding: 5px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+    }
+    .chart-row {
+      display: flex;
+      gap: 2rem;
+      justify-content: space-between;
+      flex-wrap: wrap;
+    }
+    .chart-box {
+      background-color: #fef6f0;
+      padding: 20px;
+      border-radius: 10px;
+      flex: 1;
+      min-width: 350px;
+    }
+    canvas {
+      max-width: 100%;
+    }
+    .insights-box {
+      margin-top: 2rem;
+      background-color: #f9e3c8;
+      padding: 15px;
+      border-radius: 10px;
+    }
+    .insights-box p {
+      font-size: 1rem;
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+  <h1>How do students in Singapore travel to school?</h1>
+  <p>Assignment 3 for the course 02.526 Interactive Data Visualization of the Singapore University of Technology and Design
+    <br>Prepared and presented by Cherie Lynne Gomintong on 27 March 2025
+  </p>
+  <div class="filters">
+    <label for="sex">Sex:</label>
+    <select id="sex">
+      <option value="all">All</option>
+      <option value="male">Male</option>
+      <option value="female">Female</option>
+    </select>
+  </div>
+
+  <div class="chart-row">
+    <div class="chart-box">
+      <h3>In 2010...</h3>
+      <canvas id="transportChart2010"></canvas>
+    </div>
+    <div class="chart-box">
+      <h3>In 2020...</h3>
+      <canvas id="transportChart2020"></canvas>
+    </div>
+  </div>
+
+  <div class="insights-box">
+    <h3>As of 2020, about <span style="color: #D95D39;">40%</span> of primary school students in Singapore <span style="color: #D95D39;">walk to school</span>.
+        <br>As they move to secondary school and beyond, more begin to travel by public transport.
+    </h3>
+    <p id="insights">
+      You can type your insights here. This section can be customized as needed.
+    </p>
+  </div>
+
+  <script>
+    const sexSelector = document.getElementById('sex');
+    let transportData = [];
+    let chart2010, chart2020;
+
+    function loadCSV(callback) {
+      Papa.parse('tidy_mode_of_transport.csv', {
+        download: true,
+        header: true,
+        complete: (results) => {
+          transportData = results.data;
+          callback();
+        }
+      });
+    }
+
+    function updateCharts() {
+      const sex = sexSelector.value.toLowerCase();
+      const years = ['2010', '2020'];
+      const charts = { '2010': chart2010, '2020': chart2020 };
+      const canvases = { '2010': 'transportChart2010', '2020': 'transportChart2020' };
+
+      years.forEach(year => {
+        const filtered = transportData.filter(row => row.year === year && row.sex.toLowerCase() === sex);
+        const educationLevels = [...new Set(filtered.map(row => row.education_level))];
+        const transportModes = [...new Set(filtered.map(row => row.mode_of_transport))];
+
+        const datasets = transportModes.map(mode => {
+          return {
+            label: mode,
+            data: educationLevels.map(level => {
+              const match = filtered.find(row => row.mode_of_transport === mode && row.education_level === level);
+              return match ? +match.count : 0;
+            }),
+            backgroundColor: getColor(mode)
+          };
+        });
+
+        if (charts[year]) charts[year].destroy();
+        const ctx = document.getElementById(canvases[year]).getContext('2d');
+        charts[year] = new Chart(ctx, {
+          type: 'bar',
+          data: {
+            labels: educationLevels,
+            datasets: datasets.reverse() // Reversed the stacking order
+          },
+          options: {
+            responsive: true,
+            plugins: {
+              legend: {
+                position: 'right',
+                reverse: true // Reversed the legend order
+              },
+              title: {
+                display: false
+              }
+            },
+            scales: {
+              x: { stacked: true },
+              y: { stacked: true, beginAtZero: true }
+            }
+          }
+        });
+      });
+    }
+
+    function getColor(label) {
+      const palette = [
+        '#E57200', '#FFB85F', '#FDC57B', '#D95D39', '#5F7161', '#639FAB', '#FFEBC9', '#AE847E', '#C36839', '#76B041'
+      ];
+      const index = Math.abs(hashCode(label)) % palette.length;
+      return palette[index];
+    }
+
+    function hashCode(str) {
+      let hash = 0;
+      for (let i = 0; i < str.length; i++) {
+        hash = str.charCodeAt(i) + ((hash << 5) - hash);
+      }
+      return hash;
+    }
+
+    sexSelector.addEventListener('change', updateCharts);
+    loadCSV(updateCharts);
+  </script>
+</body>
+</html>

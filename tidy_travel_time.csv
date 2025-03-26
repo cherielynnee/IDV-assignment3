@@ -1,0 +1,211 @@
+﻿year,travel_time,education_level,sex,count
+2010,  Up To 15,Pre-Primary,female,21651
+2010,  16 - 30,Pre-Primary,female,5765
+2010,  31 - 45,Pre-Primary,female,1238
+2010,  46 - 60,Pre-Primary,female,558
+2010,  More Than 60,Pre-Primary,female,63
+2010,  Up To 15,Primary,female,90348
+2010,  16 - 30,Primary,female,33533
+2010,  31 - 45,Primary,female,7015
+2010,  46 - 60,Primary,female,3582
+2010,  More Than 60,Primary,female,743
+2010,  Up To 15,Secondary,female,39407
+2010,  16 - 30,Secondary,female,46046
+2010,  31 - 45,Secondary,female,15208
+2010,  46 - 60,Secondary,female,8834
+2010,  More Than 60,Secondary,female,2351
+2010,  Up To 15,Post-Secondary (Non-Tertiary),female,3344
+2010,  16 - 30,Post-Secondary (Non-Tertiary),female,9366
+2010,  31 - 45,Post-Secondary (Non-Tertiary),female,6508
+2010,  46 - 60,Post-Secondary (Non-Tertiary),female,5932
+2010,  More Than 60,Post-Secondary (Non-Tertiary),female,2370
+2010,  Up To 15,Polytechnic,female,2491
+2010,  16 - 30,Polytechnic,female,10362
+2010,  31 - 45,Polytechnic,female,9448
+2010,  46 - 60,Polytechnic,female,11251
+2010,  More Than 60,Polytechnic,female,4675
+2010,  Up To 15,Professional Qualification And Other Diploma,female,473
+2010,  16 - 30,Professional Qualification And Other Diploma,female,2280
+2010,  31 - 45,Professional Qualification And Other Diploma,female,2193
+2010,  46 - 60,Professional Qualification And Other Diploma,female,2408
+2010,  More Than 60,Professional Qualification And Other Diploma,female,898
+2010,  Up To 15,University,female,2390
+2010,  16 - 30,University,female,7781
+2010,  31 - 45,University,female,7372
+2010,  46 - 60,University,female,10187
+2010,  More Than 60,University,female,9474
+2010,  Up To 15,Pre-Primary,male,23680
+2010,  16 - 30,Pre-Primary,male,6141
+2010,  31 - 45,Pre-Primary,male,1174
+2010,  46 - 60,Pre-Primary,male,771
+2010,  More Than 60,Pre-Primary,male,130
+2010,  Up To 15,Primary,male,99227
+2010,  16 - 30,Primary,male,35339
+2010,  31 - 45,Primary,male,6759
+2010,  46 - 60,Primary,male,3621
+2010,  More Than 60,Primary,male,763
+2010,  Up To 15,Secondary,male,44179
+2010,  16 - 30,Secondary,male,48515
+2010,  31 - 45,Secondary,male,15090
+2010,  46 - 60,Secondary,male,8852
+2010,  More Than 60,Secondary,male,2697
+2010,  Up To 15,Post-Secondary (Non-Tertiary),male,3176
+2010,  16 - 30,Post-Secondary (Non-Tertiary),male,9614
+2010,  31 - 45,Post-Secondary (Non-Tertiary),male,6628
+2010,  46 - 60,Post-Secondary (Non-Tertiary),male,6164
+2010,  More Than 60,Post-Secondary (Non-Tertiary),male,2491
+2010,  Up To 15,Polytechnic,male,3668
+2010,  16 - 30,Polytechnic,male,12413
+2010,  31 - 45,Polytechnic,male,10089
+2010,  46 - 60,Polytechnic,male,10987
+2010,  More Than 60,Polytechnic,male,4102
+2010,  Up To 15,Professional Qualification And Other Diploma,male,372
+2010,  16 - 30,Professional Qualification And Other Diploma,male,1866
+2010,  31 - 45,Professional Qualification And Other Diploma,male,1839
+2010,  46 - 60,Professional Qualification And Other Diploma,male,1674
+2010,  More Than 60,Professional Qualification And Other Diploma,male,681
+2010,  Up To 15,University,male,1993
+2010,  16 - 30,University,male,6518
+2010,  31 - 45,University,male,5948
+2010,  46 - 60,University,male,7592
+2010,  More Than 60,University,male,7538
+2020,  Up To 15,Pre-Primary,female,18974
+2020,  16 - 30,Pre-Primary,female,5896
+2020,  31 - 45,Pre-Primary,female,1049
+2020,  46 - 60,Pre-Primary,female,548
+2020,  More Than 60,Pre-Primary,female,122
+2020,  Up To 15,Primary,female,75037
+2020,  16 - 30,Primary,female,33540
+2020,  31 - 45,Primary,female,6422
+2020,  46 - 60,Primary,female,3078
+2020,  More Than 60,Primary,female,697
+2020,  Up To 15,Secondary,female,22944
+2020,  16 - 30,Secondary,female,34595
+2020,  31 - 45,Secondary,female,15749
+2020,  46 - 60,Secondary,female,8764
+2020,  More Than 60,Secondary,female,2669
+2020,  Up To 15,Post-Secondary (Non-Tertiary),female,1808
+2020,  16 - 30,Post-Secondary (Non-Tertiary),female,7276
+2020,  31 - 45,Post-Secondary (Non-Tertiary),female,7002
+2020,  46 - 60,Post-Secondary (Non-Tertiary),female,6714
+2020,  More Than 60,Post-Secondary (Non-Tertiary),female,3339
+2020,  Up To 15,Polytechnic,female,1600
+2020,  16 - 30,Polytechnic,female,7171
+2020,  31 - 45,Polytechnic,female,9378
+2020,  46 - 60,Polytechnic,female,10731
+2020,  More Than 60,Polytechnic,female,5313
+2020,  Up To 15,Professional Qualification And Other Diploma,female,231
+2020,  16 - 30,Professional Qualification And Other Diploma,female,1285
+2020,  31 - 45,Professional Qualification And Other Diploma,female,1421
+2020,  46 - 60,Professional Qualification And Other Diploma,female,2039
+2020,  More Than 60,Professional Qualification And Other Diploma,female,835
+2020,  Up To 15,University,female,3298
+2020,  16 - 30,University,female,9165
+2020,  31 - 45,University,female,11018
+2020,  46 - 60,University,female,14857
+2020,  More Than 60,University,female,13440
+2020,  Up To 15,Pre-Primary,male,20097
+2020,  16 - 30,Pre-Primary,male,6766
+2020,  31 - 45,Pre-Primary,male,1041
+2020,  46 - 60,Pre-Primary,male,530
+2020,  More Than 60,Pre-Primary,male,111
+2020,  Up To 15,Primary,male,80545
+2020,  16 - 30,Primary,male,33871
+2020,  31 - 45,Primary,male,6653
+2020,  46 - 60,Primary,male,3030
+2020,  More Than 60,Primary,male,918
+2020,  Up To 15,Secondary,male,23490
+2020,  16 - 30,Secondary,male,36772
+2020,  31 - 45,Secondary,male,16124
+2020,  46 - 60,Secondary,male,8482
+2020,  More Than 60,Secondary,male,2899
+2020,  Up To 15,Post-Secondary (Non-Tertiary),male,2176
+2020,  16 - 30,Post-Secondary (Non-Tertiary),male,8999
+2020,  31 - 45,Post-Secondary (Non-Tertiary),male,7820
+2020,  46 - 60,Post-Secondary (Non-Tertiary),male,7474
+2020,  More Than 60,Post-Secondary (Non-Tertiary),male,3068
+2020,  Up To 15,Polytechnic,male,1909
+2020,  16 - 30,Polytechnic,male,9105
+2020,  31 - 45,Polytechnic,male,9314
+2020,  46 - 60,Polytechnic,male,11519
+2020,  More Than 60,Polytechnic,male,5001
+2020,  Up To 15,Professional Qualification And Other Diploma,male,361
+2020,  16 - 30,Professional Qualification And Other Diploma,male,1143
+2020,  31 - 45,Professional Qualification And Other Diploma,male,1247
+2020,  46 - 60,Professional Qualification And Other Diploma,male,1639
+2020,  More Than 60,Professional Qualification And Other Diploma,male,660
+2020,  Up To 15,University,male,2829
+2020,  16 - 30,University,male,7916
+2020,  31 - 45,University,male,9034
+2020,  46 - 60,University,male,12356
+2020,  More Than 60,University,male,11485
+2010,  Up To 15,Pre-Primary,all,45331
+2010,  16 - 30,Pre-Primary,all,11906
+2010,  31 - 45,Pre-Primary,all,2412
+2010,  46 - 60,Pre-Primary,all,1329
+2010,  More Than 60,Pre-Primary,all,193
+2010,  Up To 15,Primary,all,189575
+2010,  16 - 30,Primary,all,68872
+2010,  31 - 45,Primary,all,13774
+2010,  46 - 60,Primary,all,7203
+2010,  More Than 60,Primary,all,1506
+2010,  Up To 15,Secondary,all,83586
+2010,  16 - 30,Secondary,all,94561
+2010,  31 - 45,Secondary,all,30298
+2010,  46 - 60,Secondary,all,17686
+2010,  More Than 60,Secondary,all,5048
+2010,  Up To 15,Post-Secondary (Non-Tertiary),all,6520
+2010,  16 - 30,Post-Secondary (Non-Tertiary),all,18980
+2010,  31 - 45,Post-Secondary (Non-Tertiary),all,13136
+2010,  46 - 60,Post-Secondary (Non-Tertiary),all,12096
+2010,  More Than 60,Post-Secondary (Non-Tertiary),all,4861
+2010,  Up To 15,Polytechnic,all,6159
+2010,  16 - 30,Polytechnic,all,22775
+2010,  31 - 45,Polytechnic,all,19537
+2010,  46 - 60,Polytechnic,all,22238
+2010,  More Than 60,Polytechnic,all,8777
+2010,  Up To 15,Professional Qualification And Other Diploma,all,845
+2010,  16 - 30,Professional Qualification And Other Diploma,all,4146
+2010,  31 - 45,Professional Qualification And Other Diploma,all,4032
+2010,  46 - 60,Professional Qualification And Other Diploma,all,4082
+2010,  More Than 60,Professional Qualification And Other Diploma,all,1579
+2010,  Up To 15,University,all,4383
+2010,  16 - 30,University,all,14299
+2010,  31 - 45,University,all,13320
+2010,  46 - 60,University,all,17779
+2010,  More Than 60,University,all,17012
+2020,  Up To 15,Pre-Primary,all,39071
+2020,  16 - 30,Pre-Primary,all,12662
+2020,  31 - 45,Pre-Primary,all,2090
+2020,  46 - 60,Pre-Primary,all,1078
+2020,  More Than 60,Pre-Primary,all,233
+2020,  Up To 15,Primary,all,155582
+2020,  16 - 30,Primary,all,67411
+2020,  31 - 45,Primary,all,13075
+2020,  46 - 60,Primary,all,6108
+2020,  More Than 60,Primary,all,1615
+2020,  Up To 15,Secondary,all,46434
+2020,  16 - 30,Secondary,all,71367
+2020,  31 - 45,Secondary,all,31873
+2020,  46 - 60,Secondary,all,17246
+2020,  More Than 60,Secondary,all,5568
+2020,  Up To 15,Post-Secondary (Non-Tertiary),all,3984
+2020,  16 - 30,Post-Secondary (Non-Tertiary),all,16275
+2020,  31 - 45,Post-Secondary (Non-Tertiary),all,14822
+2020,  46 - 60,Post-Secondary (Non-Tertiary),all,14188
+2020,  More Than 60,Post-Secondary (Non-Tertiary),all,6407
+2020,  Up To 15,Polytechnic,all,3509
+2020,  16 - 30,Polytechnic,all,16276
+2020,  31 - 45,Polytechnic,all,18692
+2020,  46 - 60,Polytechnic,all,22250
+2020,  More Than 60,Polytechnic,all,10314
+2020,  Up To 15,Professional Qualification And Other Diploma,all,592
+2020,  16 - 30,Professional Qualification And Other Diploma,all,2428
+2020,  31 - 45,Professional Qualification And Other Diploma,all,2668
+2020,  46 - 60,Professional Qualification And Other Diploma,all,3678
+2020,  More Than 60,Professional Qualification And Other Diploma,all,1495
+2020,  Up To 15,University,all,6127
+2020,  16 - 30,University,all,17081
+2020,  31 - 45,University,all,20052
+2020,  46 - 60,University,all,27213
+2020,  More Than 60,University,all,24925

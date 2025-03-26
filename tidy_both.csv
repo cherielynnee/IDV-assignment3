@@ -1,0 +1,331 @@
+﻿year,mode_of_transport,travel_time,sex,count
+2010,  Public Bus Only,  Up To 15,female,21757
+2010,  MRT Only,  Up To 15,female,1999
+2010,  MRT & Public Bus Only,  Up To 15,female,1213
+2010,  Other combinations of MRT/LRT or Public Bus,  Up To 15,female,170
+2010,  Taxi Only,  Up To 15,female,560
+2010,  Car Only,  Up To 15,female,25226
+2010,  Private Chartered Bus/Van Only,  Up To 15,female,12671
+2010,  Lorry/Pickup Only,  Up To 15,female,611
+2010,  Motorcycle/Scooter Only,  Up To 15,female,444
+2010,  Others,  Up To 15,female,6677
+2010,  No Transport Required,  Up To 15,female,88775
+2010,  Public Bus Only,  16 - 30,female,44328
+2010,  MRT Only,  16 - 30,female,7984
+2010,  MRT & Public Bus Only,  16 - 30,female,12266
+2010,  Other combinations of MRT/LRT or Public Bus,  16 - 30,female,815
+2010,  Taxi Only,  16 - 30,female,295
+2010,  Car Only,  16 - 30,female,16501
+2010,  Private Chartered Bus/Van Only,  16 - 30,female,16883
+2010,  Lorry/Pickup Only,  16 - 30,female,252
+2010,  Motorcycle/Scooter Only,  16 - 30,female,214
+2010,  Others,  16 - 30,female,7788
+2010,  No Transport Required,  16 - 30,female,7807
+2010,  Public Bus Only,  31 - 45,female,17038
+2010,  MRT Only,  31 - 45,female,5671
+2010,  MRT & Public Bus Only,  31 - 45,female,14247
+2010,  Other combinations of MRT/LRT or Public Bus,  31 - 45,female,673
+2010,  Taxi Only,  31 - 45,female,39
+2010,  Car Only,  31 - 45,female,2317
+2010,  Private Chartered Bus/Van Only,  31 - 45,female,5434
+2010,  Lorry/Pickup Only,  31 - 45,female,65
+2010,  Motorcycle/Scooter Only,  31 - 45,female,37
+2010,  Others,  31 - 45,female,3398
+2010,  No Transport Required,  31 - 45,female,63
+2010,  Public Bus Only,  46 - 60,female,13755
+2010,  MRT Only,  46 - 60,female,5310
+2010,  MRT & Public Bus Only,  46 - 60,female,17323
+2010,  Other combinations of MRT/LRT or Public Bus,  46 - 60,female,638
+2010,  Taxi Only,  46 - 60,female,60
+2010,  Car Only,  46 - 60,female,497
+2010,  Private Chartered Bus/Van Only,  46 - 60,female,2785
+2010,  Lorry/Pickup Only,  46 - 60,female,6
+2010,  Motorcycle/Scooter Only,  46 - 60,female,0
+2010,  Others,  46 - 60,female,2376
+2010,  No Transport Required,  46 - 60,female,0
+2010,  Public Bus Only,  More Than 60,female,4436
+2010,  MRT Only,  More Than 60,female,1698
+2010,  MRT & Public Bus Only,  More Than 60,female,12201
+2010,  Other combinations of MRT/LRT or Public Bus,  More Than 60,female,229
+2010,  Taxi Only,  More Than 60,female,6
+2010,  Car Only,  More Than 60,female,74
+2010,  Private Chartered Bus/Van Only,  More Than 60,female,540
+2010,  Lorry/Pickup Only,  More Than 60,female,0
+2010,  Motorcycle/Scooter Only,  More Than 60,female,0
+2010,  Others,  More Than 60,female,1391
+2010,  No Transport Required,  More Than 60,female,0
+2010,  Public Bus Only,  Up To 15,male,24584
+2010,  MRT Only,  Up To 15,male,2346
+2010,  MRT & Public Bus Only,  Up To 15,male,1397
+2010,  Other combinations of MRT/LRT or Public Bus,  Up To 15,male,183
+2010,  Taxi Only,  Up To 15,male,451
+2010,  Car Only,  Up To 15,male,25688
+2010,  Private Chartered Bus/Van Only,  Up To 15,male,12628
+2010,  Lorry/Pickup Only,  Up To 15,male,875
+2010,  Motorcycle/Scooter Only,  Up To 15,male,1003
+2010,  Others,  Up To 15,male,7833
+2010,  No Transport Required,  Up To 15,male,99306
+2010,  Public Bus Only,  16 - 30,male,47349
+2010,  MRT Only,  16 - 30,male,8249
+2010,  MRT & Public Bus Only,  16 - 30,male,12413
+2010,  Other combinations of MRT/LRT or Public Bus,  16 - 30,male,1042
+2010,  Taxi Only,  16 - 30,male,316
+2010,  Car Only,  16 - 30,male,16153
+2010,  Private Chartered Bus/Van Only,  16 - 30,male,15788
+2010,  Lorry/Pickup Only,  16 - 30,male,404
+2010,  Motorcycle/Scooter Only,  16 - 30,male,1447
+2010,  Others,  16 - 30,male,8344
+2010,  No Transport Required,  16 - 30,male,8901
+2010,  Public Bus Only,  31 - 45,male,17374
+2010,  MRT Only,  31 - 45,male,5885
+2010,  MRT & Public Bus Only,  31 - 45,male,13066
+2010,  Other combinations of MRT/LRT or Public Bus,  31 - 45,male,785
+2010,  Taxi Only,  31 - 45,male,44
+2010,  Car Only,  31 - 45,male,2215
+2010,  Private Chartered Bus/Van Only,  31 - 45,male,4659
+2010,  Lorry/Pickup Only,  31 - 45,male,38
+2010,  Motorcycle/Scooter Only,  31 - 45,male,353
+2010,  Others,  31 - 45,male,3006
+2010,  No Transport Required,  31 - 45,male,103
+2010,  Public Bus Only,  46 - 60,male,12579
+2010,  MRT Only,  46 - 60,male,4717
+2010,  MRT & Public Bus Only,  46 - 60,male,16112
+2010,  Other combinations of MRT/LRT or Public Bus,  46 - 60,male,462
+2010,  Taxi Only,  46 - 60,male,12
+2010,  Car Only,  46 - 60,male,604
+2010,  Private Chartered Bus/Van Only,  46 - 60,male,2898
+2010,  Lorry/Pickup Only,  46 - 60,male,0
+2010,  Motorcycle/Scooter Only,  46 - 60,male,75
+2010,  Others,  46 - 60,male,2203
+2010,  No Transport Required,  46 - 60,male,0
+2010,  Public Bus Only,  More Than 60,male,4058
+2010,  MRT Only,  More Than 60,male,1592
+2010,  MRT & Public Bus Only,  More Than 60,male,10693
+2010,  Other combinations of MRT/LRT or Public Bus,  More Than 60,male,196
+2010,  Taxi Only,  More Than 60,male,0
+2010,  Car Only,  More Than 60,male,109
+2010,  Private Chartered Bus/Van Only,  More Than 60,male,511
+2010,  Lorry/Pickup Only,  More Than 60,male,6
+2010,  Motorcycle/Scooter Only,  More Than 60,male,12
+2010,  Others,  More Than 60,male,1223
+2010,  No Transport Required,  More Than 60,male,0
+2020,  Public Bus Only,  Up To 15,female,17281
+2020,  MRT Only,  Up To 15,female,1654
+2020,  MRT & Public Bus Only,  Up To 15,female,1118
+2020,  Other combinations of MRT/LRT or Public Bus,  Up To 15,female,952
+2020,  Taxi Only,  Up To 15,female,907
+2020,  Car Only,  Up To 15,female,26337
+2020,  Private Chartered Bus/Van Only,  Up To 15,female,5329
+2020,  Lorry/Pickup Only,  Up To 15,female,378
+2020,  Motorcycle/Scooter Only,  Up To 15,female,324
+2020,  Others,  Up To 15,female,1983
+2020,  No Transport Required,  Up To 15,female,67629
+2020,  Public Bus Only,  16 - 30,female,35296
+2020,  MRT Only,  16 - 30,female,7024
+2020,  MRT & Public Bus Only,  16 - 30,female,15195
+2020,  Other combinations of MRT/LRT or Public Bus,  16 - 30,female,2140
+2020,  Taxi Only,  16 - 30,female,1008
+2020,  Car Only,  16 - 30,female,19044
+2020,  Private Chartered Bus/Van Only,  16 - 30,female,9929
+2020,  Lorry/Pickup Only,  16 - 30,female,94
+2020,  Motorcycle/Scooter Only,  16 - 30,female,181
+2020,  Others,  16 - 30,female,601
+2020,  No Transport Required,  16 - 30,female,8415
+2020,  Public Bus Only,  31 - 45,female,13948
+2020,  MRT Only,  31 - 45,female,6511
+2020,  MRT & Public Bus Only,  31 - 45,female,22371
+2020,  Other combinations of MRT/LRT or Public Bus,  31 - 45,female,2137
+2020,  Taxi Only,  31 - 45,female,313
+2020,  Car Only,  31 - 45,female,2473
+2020,  Private Chartered Bus/Van Only,  31 - 45,female,4003
+2020,  Lorry/Pickup Only,  31 - 45,female,37
+2020,  Motorcycle/Scooter Only,  31 - 45,female,17
+2020,  Others,  31 - 45,female,149
+2020,  No Transport Required,  31 - 45,female,78
+2020,  Public Bus Only,  46 - 60,female,8621
+2020,  MRT Only,  46 - 60,female,6277
+2020,  MRT & Public Bus Only,  46 - 60,female,26547
+2020,  Other combinations of MRT/LRT or Public Bus,  46 - 60,female,2400
+2020,  Taxi Only,  46 - 60,female,84
+2020,  Car Only,  46 - 60,female,625
+2020,  Private Chartered Bus/Van Only,  46 - 60,female,2029
+2020,  Lorry/Pickup Only,  46 - 60,female,0
+2020,  Motorcycle/Scooter Only,  46 - 60,female,29
+2020,  Others,  46 - 60,female,50
+2020,  No Transport Required,  46 - 60,female,69
+2020,  Public Bus Only,  More Than 60,female,2443
+2020,  MRT Only,  More Than 60,female,2733
+2020,  MRT & Public Bus Only,  More Than 60,female,18894
+2020,  Other combinations of MRT/LRT or Public Bus,  More Than 60,female,1842
+2020,  Taxi Only,  More Than 60,female,19
+2020,  Car Only,  More Than 60,female,26
+2020,  Private Chartered Bus/Van Only,  More Than 60,female,419
+2020,  Lorry/Pickup Only,  More Than 60,female,0
+2020,  Motorcycle/Scooter Only,  More Than 60,female,0
+2020,  Others,  More Than 60,female,0
+2020,  No Transport Required,  More Than 60,female,39
+2020,  Public Bus Only,  Up To 15,male,17524
+2020,  MRT Only,  Up To 15,male,2178
+2020,  MRT & Public Bus Only,  Up To 15,male,1146
+2020,  Other combinations of MRT/LRT or Public Bus,  Up To 15,male,986
+2020,  Taxi Only,  Up To 15,male,963
+2020,  Car Only,  Up To 15,male,26288
+2020,  Private Chartered Bus/Van Only,  Up To 15,male,5419
+2020,  Lorry/Pickup Only,  Up To 15,male,262
+2020,  Motorcycle/Scooter Only,  Up To 15,male,814
+2020,  Others,  Up To 15,male,2169
+2020,  No Transport Required,  Up To 15,male,73659
+2020,  Public Bus Only,  16 - 30,male,37073
+2020,  MRT Only,  16 - 30,male,8632
+2020,  MRT & Public Bus Only,  16 - 30,male,15976
+2020,  Other combinations of MRT/LRT or Public Bus,  16 - 30,male,2642
+2020,  Taxi Only,  16 - 30,male,1078
+2020,  Car Only,  16 - 30,male,18316
+2020,  Private Chartered Bus/Van Only,  16 - 30,male,10309
+2020,  Lorry/Pickup Only,  16 - 30,male,194
+2020,  Motorcycle/Scooter Only,  16 - 30,male,1281
+2020,  Others,  16 - 30,male,854
+2020,  No Transport Required,  16 - 30,male,8217
+2020,  Public Bus Only,  31 - 45,male,14228
+2020,  MRT Only,  31 - 45,male,6336
+2020,  MRT & Public Bus Only,  31 - 45,male,21319
+2020,  Other combinations of MRT/LRT or Public Bus,  31 - 45,male,2117
+2020,  Taxi Only,  31 - 45,male,207
+2020,  Car Only,  31 - 45,male,2796
+2020,  Private Chartered Bus/Van Only,  31 - 45,male,3698
+2020,  Lorry/Pickup Only,  31 - 45,male,0
+2020,  Motorcycle/Scooter Only,  31 - 45,male,404
+2020,  Others,  31 - 45,male,91
+2020,  No Transport Required,  31 - 45,male,35
+2020,  Public Bus Only,  46 - 60,male,7954
+2020,  MRT Only,  46 - 60,male,6420
+2020,  MRT & Public Bus Only,  46 - 60,male,25349
+2020,  Other combinations of MRT/LRT or Public Bus,  46 - 60,male,2192
+2020,  Taxi Only,  46 - 60,male,90
+2020,  Car Only,  46 - 60,male,507
+2020,  Private Chartered Bus/Van Only,  46 - 60,male,2306
+2020,  Lorry/Pickup Only,  46 - 60,male,0
+2020,  Motorcycle/Scooter Only,  46 - 60,male,84
+2020,  Others,  46 - 60,male,76
+2020,  No Transport Required,  46 - 60,male,51
+2020,  Public Bus Only,  More Than 60,male,2635
+2020,  MRT Only,  More Than 60,male,2641
+2020,  MRT & Public Bus Only,  More Than 60,male,16763
+2020,  Other combinations of MRT/LRT or Public Bus,  More Than 60,male,1357
+2020,  Taxi Only,  More Than 60,male,0
+2020,  Car Only,  More Than 60,male,86
+2020,  Private Chartered Bus/Van Only,  More Than 60,male,603
+2020,  Lorry/Pickup Only,  More Than 60,male,0
+2020,  Motorcycle/Scooter Only,  More Than 60,male,0
+2020,  Others,  More Than 60,male,30
+2020,  No Transport Required,  More Than 60,male,27
+2010,  Public Bus Only,  Up To 15,all,46341
+2010,  MRT Only,  Up To 15,all,4345
+2010,  MRT & Public Bus Only,  Up To 15,all,2610
+2010,  Other combinations of MRT/LRT or Public Bus,  Up To 15,all,353
+2010,  Taxi Only,  Up To 15,all,1011
+2010,  Car Only,  Up To 15,all,50914
+2010,  Private Chartered Bus/Van Only,  Up To 15,all,25299
+2010,  Lorry/Pickup Only,  Up To 15,all,1486
+2010,  Motorcycle/Scooter Only,  Up To 15,all,1447
+2010,  Others,  Up To 15,all,14510
+2010,  No Transport Required,  Up To 15,all,188081
+2010,  Public Bus Only,  16 - 30,all,91677
+2010,  MRT Only,  16 - 30,all,16233
+2010,  MRT & Public Bus Only,  16 - 30,all,24679
+2010,  Other combinations of MRT/LRT or Public Bus,  16 - 30,all,1857
+2010,  Taxi Only,  16 - 30,all,611
+2010,  Car Only,  16 - 30,all,32654
+2010,  Private Chartered Bus/Van Only,  16 - 30,all,32671
+2010,  Lorry/Pickup Only,  16 - 30,all,656
+2010,  Motorcycle/Scooter Only,  16 - 30,all,1661
+2010,  Others,  16 - 30,all,16132
+2010,  No Transport Required,  16 - 30,all,16708
+2010,  Public Bus Only,  31 - 45,all,34412
+2010,  MRT Only,  31 - 45,all,11556
+2010,  MRT & Public Bus Only,  31 - 45,all,27313
+2010,  Other combinations of MRT/LRT or Public Bus,  31 - 45,all,1458
+2010,  Taxi Only,  31 - 45,all,83
+2010,  Car Only,  31 - 45,all,4532
+2010,  Private Chartered Bus/Van Only,  31 - 45,all,10093
+2010,  Lorry/Pickup Only,  31 - 45,all,103
+2010,  Motorcycle/Scooter Only,  31 - 45,all,390
+2010,  Others,  31 - 45,all,6404
+2010,  No Transport Required,  31 - 45,all,166
+2010,  Public Bus Only,  46 - 60,all,26334
+2010,  MRT Only,  46 - 60,all,10027
+2010,  MRT & Public Bus Only,  46 - 60,all,33435
+2010,  Other combinations of MRT/LRT or Public Bus,  46 - 60,all,1100
+2010,  Taxi Only,  46 - 60,all,72
+2010,  Car Only,  46 - 60,all,1101
+2010,  Private Chartered Bus/Van Only,  46 - 60,all,5683
+2010,  Lorry/Pickup Only,  46 - 60,all,6
+2010,  Motorcycle/Scooter Only,  46 - 60,all,75
+2010,  Others,  46 - 60,all,4579
+2010,  No Transport Required,  46 - 60,all,0
+2010,  Public Bus Only,  More Than 60,all,8494
+2010,  MRT Only,  More Than 60,all,3290
+2010,  MRT & Public Bus Only,  More Than 60,all,22894
+2010,  Other combinations of MRT/LRT or Public Bus,  More Than 60,all,425
+2010,  Taxi Only,  More Than 60,all,6
+2010,  Car Only,  More Than 60,all,183
+2010,  Private Chartered Bus/Van Only,  More Than 60,all,1051
+2010,  Lorry/Pickup Only,  More Than 60,all,6
+2010,  Motorcycle/Scooter Only,  More Than 60,all,12
+2010,  Others,  More Than 60,all,2614
+2010,  No Transport Required,  More Than 60,all,0
+2020,  Public Bus Only,  Up To 15,all,34805
+2020,  MRT Only,  Up To 15,all,3832
+2020,  MRT & Public Bus Only,  Up To 15,all,2264
+2020,  Other combinations of MRT/LRT or Public Bus,  Up To 15,all,1938
+2020,  Taxi Only,  Up To 15,all,1870
+2020,  Car Only,  Up To 15,all,52625
+2020,  Private Chartered Bus/Van Only,  Up To 15,all,10748
+2020,  Lorry/Pickup Only,  Up To 15,all,640
+2020,  Motorcycle/Scooter Only,  Up To 15,all,1138
+2020,  Others,  Up To 15,all,4152
+2020,  No Transport Required,  Up To 15,all,141288
+2020,  Public Bus Only,  16 - 30,all,72369
+2020,  MRT Only,  16 - 30,all,15656
+2020,  MRT & Public Bus Only,  16 - 30,all,31171
+2020,  Other combinations of MRT/LRT or Public Bus,  16 - 30,all,4782
+2020,  Taxi Only,  16 - 30,all,2086
+2020,  Car Only,  16 - 30,all,37360
+2020,  Private Chartered Bus/Van Only,  16 - 30,all,20238
+2020,  Lorry/Pickup Only,  16 - 30,all,288
+2020,  Motorcycle/Scooter Only,  16 - 30,all,1462
+2020,  Others,  16 - 30,all,1455
+2020,  No Transport Required,  16 - 30,all,16632
+2020,  Public Bus Only,  31 - 45,all,28176
+2020,  MRT Only,  31 - 45,all,12847
+2020,  MRT & Public Bus Only,  31 - 45,all,43690
+2020,  Other combinations of MRT/LRT or Public Bus,  31 - 45,all,4254
+2020,  Taxi Only,  31 - 45,all,520
+2020,  Car Only,  31 - 45,all,5269
+2020,  Private Chartered Bus/Van Only,  31 - 45,all,7701
+2020,  Lorry/Pickup Only,  31 - 45,all,37
+2020,  Motorcycle/Scooter Only,  31 - 45,all,421
+2020,  Others,  31 - 45,all,240
+2020,  No Transport Required,  31 - 45,all,113
+2020,  Public Bus Only,  46 - 60,all,16575
+2020,  MRT Only,  46 - 60,all,12697
+2020,  MRT & Public Bus Only,  46 - 60,all,51896
+2020,  Other combinations of MRT/LRT or Public Bus,  46 - 60,all,4592
+2020,  Taxi Only,  46 - 60,all,174
+2020,  Car Only,  46 - 60,all,1132
+2020,  Private Chartered Bus/Van Only,  46 - 60,all,4335
+2020,  Lorry/Pickup Only,  46 - 60,all,0
+2020,  Motorcycle/Scooter Only,  46 - 60,all,113
+2020,  Others,  46 - 60,all,126
+2020,  No Transport Required,  46 - 60,all,120
+2020,  Public Bus Only,  More Than 60,all,5078
+2020,  MRT Only,  More Than 60,all,5374
+2020,  MRT & Public Bus Only,  More Than 60,all,35657
+2020,  Other combinations of MRT/LRT or Public Bus,  More Than 60,all,3199
+2020,  Taxi Only,  More Than 60,all,19
+2020,  Car Only,  More Than 60,all,112
+2020,  Private Chartered Bus/Van Only,  More Than 60,all,1022
+2020,  Lorry/Pickup Only,  More Than 60,all,0
+2020,  Motorcycle/Scooter Only,  More Than 60,all,0
+2020,  Others,  More Than 60,all,30
+2020,  No Transport Required,  More Than 60,all,66
