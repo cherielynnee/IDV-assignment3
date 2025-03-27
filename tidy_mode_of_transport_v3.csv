@@ -1,0 +1,463 @@
+﻿year,mode_of_transport,education_level,sex,count
+2010,[Public] Bus,1-Pre-Primary,female,1641
+2010,[Public] MRT/LRT,1-Pre-Primary,female,124
+2010,[Public] MRT/LRT & Bus,1-Pre-Primary,female,232
+2010,[Public] Other combinations,1-Pre-Primary,female,25
+2010,[Private] Taxi/Hire Car,1-Pre-Primary,female,113
+2010,[Private] Car,1-Pre-Primary,female,5412
+2010,[Private] School Bus/Van,1-Pre-Primary,female,5500
+2010,Others,1-Pre-Primary,female,101
+2010,Others,1-Pre-Primary,female,0
+2010,Others,1-Pre-Primary,female,1121
+2010,No Transport Required,1-Pre-Primary,female,15077
+2010,[Public] Bus,2-Primary,female,16393
+2010,[Public] MRT/LRT,2-Primary,female,812
+2010,[Public] MRT/LRT & Bus,2-Primary,female,1657
+2010,[Public] Other combinations,2-Primary,female,138
+2010,[Private] Taxi/Hire Car,2-Primary,female,341
+2010,[Private] Car,2-Primary,female,18261
+2010,[Private] School Bus/Van,2-Primary,female,29531
+2010,Others,2-Primary,female,426
+2010,Others,2-Primary,female,248
+2010,Others,2-Primary,female,7717
+2010,No Transport Required,2-Primary,female,59994
+2010,[Public] Bus,3-Secondary,female,46854
+2010,[Public] MRT/LRT,3-Secondary,female,6041
+2010,[Public] MRT/LRT & Bus,3-Secondary,female,13784
+2010,[Public] Other combinations,3-Secondary,female,815
+2010,[Private] Taxi/Hire Car,3-Secondary,female,252
+2010,[Private] Car,3-Secondary,female,14154
+2010,[Private] School Bus/Van,3-Secondary,female,2797
+2010,Others,3-Secondary,female,358
+2010,Others,3-Secondary,female,202
+2010,Others,3-Secondary,female,7563
+2010,No Transport Required,3-Secondary,female,19300
+2010,[Public] Bus,4-Post-Secondary,female,10055
+2010,[Public] MRT/LRT,4-Post-Secondary,female,3021
+2010,[Public] MRT/LRT & Bus,4-Post-Secondary,female,8025
+2010,[Public] Other combinations,4-Post-Secondary,female,318
+2010,[Private] Taxi/Hire Car,4-Post-Secondary,female,62
+2010,[Private] Car,4-Post-Secondary,female,3233
+2010,[Private] School Bus/Van,4-Post-Secondary,female,246
+2010,Others,4-Post-Secondary,female,37
+2010,Others,4-Post-Secondary,female,37
+2010,Others,4-Post-Secondary,female,1588
+2010,No Transport Required,4-Post-Secondary,female,989
+2010,[Public] Bus,4-Post-Secondary,female,14143
+2010,[Public] MRT/LRT,4-Post-Secondary,female,6743
+2010,[Public] MRT/LRT & Bus,4-Post-Secondary,female,13863
+2010,[Public] Other combinations,4-Post-Secondary,female,623
+2010,[Private] Taxi/Hire Car,4-Post-Secondary,female,20
+2010,[Private] Car,4-Post-Secondary,female,540
+2010,[Private] School Bus/Van,4-Post-Secondary,female,94
+2010,Others,4-Post-Secondary,female,6
+2010,Others,4-Post-Secondary,female,93
+2010,Others,4-Post-Secondary,female,1320
+2010,No Transport Required,4-Post-Secondary,female,813
+2010,[Public] Bus,4-Post-Secondary,female,2202
+2010,[Public] MRT/LRT,4-Post-Secondary,female,1749
+2010,[Public] MRT/LRT & Bus,4-Post-Secondary,female,3361
+2010,[Public] Other combinations,4-Post-Secondary,female,120
+2010,[Private] Taxi/Hire Car,4-Post-Secondary,female,32
+2010,[Private] Car,4-Post-Secondary,female,231
+2010,[Private] School Bus/Van,4-Post-Secondary,female,28
+2010,Others,4-Post-Secondary,female,0
+2010,Others,4-Post-Secondary,female,51
+2010,Others,4-Post-Secondary,female,287
+2010,No Transport Required,4-Post-Secondary,female,256
+2010,[Public] Bus,5-University,female,10026
+2010,[Public] MRT/LRT,5-University,female,4172
+2010,[Public] MRT/LRT & Bus,5-University,female,16329
+2010,[Public] Other combinations,5-University,female,485
+2010,[Private] Taxi/Hire Car,5-University,female,138
+2010,[Private] Car,5-University,female,2784
+2010,[Private] School Bus/Van,5-University,female,116
+2010,Others,5-University,female,6
+2010,Others,5-University,female,63
+2010,Others,5-University,female,2034
+2010,No Transport Required,5-University,female,1367
+2010,[Public] Bus,1-Pre-Primary,male,1909
+2010,[Public] MRT/LRT,1-Pre-Primary,male,178
+2010,[Public] MRT/LRT & Bus,1-Pre-Primary,male,243
+2010,[Public] Other combinations,1-Pre-Primary,male,65
+2010,[Private] Taxi/Hire Car,1-Pre-Primary,male,87
+2010,[Private] Car,1-Pre-Primary,male,5711
+2010,[Private] School Bus/Van,1-Pre-Primary,male,5594
+2010,Others,1-Pre-Primary,male,163
+2010,Others,1-Pre-Primary,male,34
+2010,Others,1-Pre-Primary,male,1346
+2010,No Transport Required,1-Pre-Primary,male,16670
+2010,[Public] Bus,2-Primary,male,17944
+2010,[Public] MRT/LRT,2-Primary,male,1323
+2010,[Public] MRT/LRT & Bus,2-Primary,male,1959
+2010,[Public] Other combinations,2-Primary,male,292
+2010,[Private] Taxi/Hire Car,2-Primary,male,252
+2010,[Private] Car,2-Primary,male,19659
+2010,[Private] School Bus/Van,2-Primary,male,28809
+2010,Others,2-Primary,male,545
+2010,Others,2-Primary,male,382
+2010,Others,2-Primary,male,8290
+2010,No Transport Required,2-Primary,male,66577
+2010,[Public] Bus,3-Secondary,male,50775
+2010,[Public] MRT/LRT,3-Secondary,male,6281
+2010,[Public] MRT/LRT & Bus,3-Secondary,male,14459
+2010,[Public] Other combinations,3-Secondary,male,1055
+2010,[Private] Taxi/Hire Car,3-Secondary,male,322
+2010,[Private] Car,3-Secondary,male,12977
+2010,[Private] School Bus/Van,3-Secondary,male,1821
+2010,Others,3-Secondary,male,553
+2010,Others,3-Secondary,male,272
+2010,Others,3-Secondary,male,8284
+2010,No Transport Required,3-Secondary,male,22769
+2010,[Public] Bus,4-Post-Secondary,male,11194
+2010,[Public] MRT/LRT,4-Post-Secondary,male,2947
+2010,[Public] MRT/LRT & Bus,4-Post-Secondary,male,8211
+2010,[Public] Other combinations,4-Post-Secondary,male,272
+2010,[Private] Taxi/Hire Car,4-Post-Secondary,male,52
+2010,[Private] Car,4-Post-Secondary,male,2373
+2010,[Private] School Bus/Van,4-Post-Secondary,male,94
+2010,Others,4-Post-Secondary,male,31
+2010,Others,4-Post-Secondary,male,402
+2010,Others,4-Post-Secondary,male,1565
+2010,No Transport Required,4-Post-Secondary,male,1008
+2010,[Public] Bus,4-Post-Secondary,male,15453
+2010,[Public] MRT/LRT,4-Post-Secondary,male,7614
+2010,[Public] MRT/LRT & Bus,4-Post-Secondary,male,13469
+2010,[Public] Other combinations,4-Post-Secondary,male,519
+2010,[Private] Taxi/Hire Car,4-Post-Secondary,male,40
+2010,[Private] Car,4-Post-Secondary,male,813
+2010,[Private] School Bus/Van,4-Post-Secondary,male,71
+2010,Others,4-Post-Secondary,male,19
+2010,Others,4-Post-Secondary,male,951
+2010,Others,4-Post-Secondary,male,1332
+2010,No Transport Required,4-Post-Secondary,male,1039
+2010,[Public] Bus,4-Post-Secondary,male,1954
+2010,[Public] MRT/LRT,4-Post-Secondary,male,1249
+2010,[Public] MRT/LRT & Bus,4-Post-Secondary,male,2288
+2010,[Public] Other combinations,4-Post-Secondary,male,97
+2010,[Private] Taxi/Hire Car,4-Post-Secondary,male,6
+2010,[Private] Car,4-Post-Secondary,male,303
+2010,[Private] School Bus/Van,4-Post-Secondary,male,31
+2010,Others,4-Post-Secondary,male,0
+2010,Others,4-Post-Secondary,male,228
+2010,Others,4-Post-Secondary,male,192
+2010,No Transport Required,4-Post-Secondary,male,134
+2010,[Public] Bus,5-University,male,6714
+2010,[Public] MRT/LRT,5-University,male,3197
+2010,[Public] MRT/LRT & Bus,5-University,male,13051
+2010,[Public] Other combinations,5-University,male,369
+2010,[Private] Taxi/Hire Car,5-University,male,63
+2010,[Private] Car,5-University,male,2932
+2010,[Private] School Bus/Van,5-University,male,65
+2010,Others,5-University,male,12
+2010,Others,5-University,male,622
+2010,Others,5-University,male,1601
+2010,No Transport Required,5-University,male,1244
+2020,[Public] Bus,1-Pre-Primary,female,2926
+2020,[Public] MRT/LRT,1-Pre-Primary,female,349
+2020,[Public] MRT/LRT & Bus,1-Pre-Primary,female,457
+2020,[Public] Other combinations,1-Pre-Primary,female,200
+2020,[Private] Taxi/Hire Car,1-Pre-Primary,female,220
+2020,[Private] Car,1-Pre-Primary,female,6037
+2020,[Private] School Bus/Van,1-Pre-Primary,female,2569
+2020,Others,1-Pre-Primary,female,25
+2020,Others,1-Pre-Primary,female,17
+2020,Others,1-Pre-Primary,female,552
+2020,No Transport Required,1-Pre-Primary,female,13631
+2020,[Public] Bus,2-Primary,female,19157
+2020,[Public] MRT/LRT,2-Primary,female,1625
+2020,[Public] MRT/LRT & Bus,2-Primary,female,3501
+2020,[Public] Other combinations,2-Primary,female,1560
+2020,[Private] Taxi/Hire Car,2-Primary,female,887
+2020,[Private] Car,2-Primary,female,25298
+2020,[Private] School Bus/Van,2-Primary,female,16658
+2020,Others,2-Primary,female,316
+2020,Others,2-Primary,female,270
+2020,Others,2-Primary,female,1731
+2020,No Transport Required,2-Primary,female,48635
+2020,[Public] Bus,3-Secondary,female,31136
+2020,[Public] MRT/LRT,3-Secondary,female,5456
+2020,[Public] MRT/LRT & Bus,3-Secondary,female,19478
+2020,[Public] Other combinations,3-Secondary,female,2633
+2020,[Private] Taxi/Hire Car,3-Secondary,female,578
+2020,[Private] Car,3-Secondary,female,11403
+2020,[Private] School Bus/Van,3-Secondary,female,2054
+2020,Others,3-Secondary,female,137
+2020,Others,3-Secondary,female,102
+2020,Others,3-Secondary,female,236
+2020,No Transport Required,3-Secondary,female,12194
+2020,[Public] Bus,4-Post-Secondary,female,6323
+2020,[Public] MRT/LRT,4-Post-Secondary,female,2968
+2020,[Public] MRT/LRT & Bus,4-Post-Secondary,female,11826
+2020,[Public] Other combinations,4-Post-Secondary,female,1540
+2020,[Private] Taxi/Hire Car,4-Post-Secondary,female,82
+2020,[Private] Car,4-Post-Secondary,female,2547
+2020,[Private] School Bus/Van,4-Post-Secondary,female,258
+2020,Others,4-Post-Secondary,female,0
+2020,Others,4-Post-Secondary,female,11
+2020,Others,4-Post-Secondary,female,62
+2020,No Transport Required,4-Post-Secondary,female,824
+2020,[Public] Bus,4-Post-Secondary,female,8933
+2020,[Public] MRT/LRT,4-Post-Secondary,female,5037
+2020,[Public] MRT/LRT & Bus,4-Post-Secondary,female,17702
+2020,[Public] Other combinations,4-Post-Secondary,female,1193
+2020,[Private] Taxi/Hire Car,4-Post-Secondary,female,67
+2020,[Private] Car,4-Post-Secondary,female,501
+2020,[Private] School Bus/Van,4-Post-Secondary,female,34
+2020,Others,4-Post-Secondary,female,17
+2020,Others,4-Post-Secondary,female,103
+2020,Others,4-Post-Secondary,female,41
+2020,No Transport Required,4-Post-Secondary,female,1199
+2020,[Public] Bus,4-Post-Secondary,female,1148
+2020,[Public] MRT/LRT,4-Post-Secondary,female,1086
+2020,[Public] MRT/LRT & Bus,4-Post-Secondary,female,2939
+2020,[Public] Other combinations,4-Post-Secondary,female,173
+2020,[Private] Taxi/Hire Car,4-Post-Secondary,female,68
+2020,[Private] Car,4-Post-Secondary,female,176
+2020,[Private] School Bus/Van,4-Post-Secondary,female,9
+2020,Others,4-Post-Secondary,female,13
+2020,Others,4-Post-Secondary,female,14
+2020,Others,4-Post-Secondary,female,10
+2020,No Transport Required,4-Post-Secondary,female,498
+2020,[Public] Bus,5-University,female,7966
+2020,[Public] MRT/LRT,5-University,female,7677
+2020,[Public] MRT/LRT & Bus,5-University,female,28220
+2020,[Public] Other combinations,5-University,female,2172
+2020,[Private] Taxi/Hire Car,5-University,female,429
+2020,[Private] Car,5-University,female,2543
+2020,[Private] School Bus/Van,5-University,female,128
+2020,Others,5-University,female,0
+2020,Others,5-University,female,34
+2020,Others,5-University,female,151
+2020,No Transport Required,5-University,female,4919
+2020,[Public] Bus,1-Pre-Primary,male,3167
+2020,[Public] MRT/LRT,1-Pre-Primary,male,315
+2020,[Public] MRT/LRT & Bus,1-Pre-Primary,male,575
+2020,[Public] Other combinations,1-Pre-Primary,male,245
+2020,[Private] Taxi/Hire Car,1-Pre-Primary,male,366
+2020,[Private] Car,1-Pre-Primary,male,6340
+2020,[Private] School Bus/Van,1-Pre-Primary,male,2739
+2020,Others,1-Pre-Primary,male,107
+2020,Others,1-Pre-Primary,male,51
+2020,Others,1-Pre-Primary,male,521
+2020,No Transport Required,1-Pre-Primary,male,14446
+2020,[Public] Bus,2-Primary,male,19403
+2020,[Public] MRT/LRT,2-Primary,male,1999
+2020,[Public] MRT/LRT & Bus,2-Primary,male,3518
+2020,[Public] Other combinations,2-Primary,male,1608
+2020,[Private] Taxi/Hire Car,2-Primary,male,864
+2020,[Private] Car,2-Primary,male,26411
+2020,[Private] School Bus/Van,2-Primary,male,17184
+2020,Others,2-Primary,male,226
+2020,Others,2-Primary,male,291
+2020,Others,2-Primary,male,1592
+2020,No Transport Required,2-Primary,male,52721
+2020,[Public] Bus,3-Secondary,male,32945
+2020,[Public] MRT/LRT,3-Secondary,male,6591
+2020,[Public] MRT/LRT & Bus,3-Secondary,male,19519
+2020,[Public] Other combinations,3-Secondary,male,3032
+2020,[Private] Taxi/Hire Car,3-Secondary,male,410
+2020,[Private] Car,3-Secondary,male,10128
+2020,[Private] School Bus/Van,3-Secondary,male,2007
+2020,Others,3-Secondary,male,105
+2020,Others,3-Secondary,male,126
+2020,Others,3-Secondary,male,696
+2020,No Transport Required,3-Secondary,male,12741
+2020,[Public] Bus,4-Post-Secondary,male,8219
+2020,[Public] MRT/LRT,4-Post-Secondary,male,3287
+2020,[Public] MRT/LRT & Bus,4-Post-Secondary,male,13080
+2020,[Public] Other combinations,4-Post-Secondary,male,1333
+2020,[Private] Taxi/Hire Car,4-Post-Secondary,male,200
+2020,[Private] Car,4-Post-Secondary,male,1848
+2020,[Private] School Bus/Van,4-Post-Secondary,male,203
+2020,Others,4-Post-Secondary,male,0
+2020,Others,4-Post-Secondary,male,503
+2020,Others,4-Post-Secondary,male,128
+2020,No Transport Required,4-Post-Secondary,male,1117
+2020,[Public] Bus,4-Post-Secondary,male,8696
+2020,[Public] MRT/LRT,4-Post-Secondary,male,6207
+2020,[Public] MRT/LRT & Bus,4-Post-Secondary,male,18388
+2020,[Public] Other combinations,4-Post-Secondary,male,1321
+2020,[Private] Taxi/Hire Car,4-Post-Secondary,male,55
+2020,[Private] Car,4-Post-Secondary,male,740
+2020,[Private] School Bus/Van,4-Post-Secondary,male,41
+2020,Others,4-Post-Secondary,male,17
+2020,Others,4-Post-Secondary,male,627
+2020,Others,4-Post-Secondary,male,90
+2020,No Transport Required,4-Post-Secondary,male,1599
+2020,[Public] Bus,4-Post-Secondary,male,1142
+2020,[Public] MRT/LRT,4-Post-Secondary,male,648
+2020,[Public] MRT/LRT & Bus,4-Post-Secondary,male,2623
+2020,[Public] Other combinations,4-Post-Secondary,male,200
+2020,[Private] Taxi/Hire Car,4-Post-Secondary,male,23
+2020,[Private] Car,4-Post-Secondary,male,132
+2020,[Private] School Bus/Van,4-Post-Secondary,male,7
+2020,Others,4-Post-Secondary,male,0
+2020,Others,4-Post-Secondary,male,110
+2020,Others,4-Post-Secondary,male,12
+2020,No Transport Required,4-Post-Secondary,male,347
+2020,[Public] Bus,5-University,male,5842
+2020,[Public] MRT/LRT,5-University,male,7160
+2020,[Public] MRT/LRT & Bus,5-University,male,22849
+2020,[Public] Other combinations,5-University,male,1556
+2020,[Private] Taxi/Hire Car,5-University,male,421
+2020,[Private] Car,5-University,male,2394
+2020,[Private] School Bus/Van,5-University,male,155
+2020,Others,5-University,male,0
+2020,Others,5-University,male,875
+2020,Others,5-University,male,181
+2020,No Transport Required,5-University,male,4173
+2010,[Public] Bus,1-Pre-Primary,all,3550
+2010,[Public] MRT/LRT,1-Pre-Primary,all,302
+2010,[Public] MRT/LRT & Bus,1-Pre-Primary,all,475
+2010,[Public] Other combinations,1-Pre-Primary,all,90
+2010,[Private] Taxi/Hire Car,1-Pre-Primary,all,200
+2010,[Private] Car,1-Pre-Primary,all,11123
+2010,[Private] School Bus/Van,1-Pre-Primary,all,11094
+2010,Others,1-Pre-Primary,all,264
+2010,Others,1-Pre-Primary,all,34
+2010,Others,1-Pre-Primary,all,2467
+2010,No Transport Required,1-Pre-Primary,all,31747
+2010,[Public] Bus,2-Primary,all,34337
+2010,[Public] MRT/LRT,2-Primary,all,2135
+2010,[Public] MRT/LRT & Bus,2-Primary,all,3616
+2010,[Public] Other combinations,2-Primary,all,430
+2010,[Private] Taxi/Hire Car,2-Primary,all,593
+2010,[Private] Car,2-Primary,all,37920
+2010,[Private] School Bus/Van,2-Primary,all,58340
+2010,Others,2-Primary,all,971
+2010,Others,2-Primary,all,630
+2010,Others,2-Primary,all,16007
+2010,No Transport Required,2-Primary,all,126571
+2010,[Public] Bus,3-Secondary,all,97629
+2010,[Public] MRT/LRT,3-Secondary,all,12322
+2010,[Public] MRT/LRT & Bus,3-Secondary,all,28243
+2010,[Public] Other combinations,3-Secondary,all,1870
+2010,[Private] Taxi/Hire Car,3-Secondary,all,574
+2010,[Private] Car,3-Secondary,all,27131
+2010,[Private] School Bus/Van,3-Secondary,all,4618
+2010,Others,3-Secondary,all,911
+2010,Others,3-Secondary,all,474
+2010,Others,3-Secondary,all,15847
+2010,No Transport Required,3-Secondary,all,42069
+2010,[Public] Bus,4-Post-Secondary,all,21249
+2010,[Public] MRT/LRT,4-Post-Secondary,all,5968
+2010,[Public] MRT/LRT & Bus,4-Post-Secondary,all,16236
+2010,[Public] Other combinations,4-Post-Secondary,all,590
+2010,[Private] Taxi/Hire Car,4-Post-Secondary,all,114
+2010,[Private] Car,4-Post-Secondary,all,5606
+2010,[Private] School Bus/Van,4-Post-Secondary,all,340
+2010,Others,4-Post-Secondary,all,68
+2010,Others,4-Post-Secondary,all,439
+2010,Others,4-Post-Secondary,all,3153
+2010,No Transport Required,4-Post-Secondary,all,1997
+2010,[Public] Bus,4-Post-Secondary,all,29596
+2010,[Public] MRT/LRT,4-Post-Secondary,all,14357
+2010,[Public] MRT/LRT & Bus,4-Post-Secondary,all,27332
+2010,[Public] Other combinations,4-Post-Secondary,all,1142
+2010,[Private] Taxi/Hire Car,4-Post-Secondary,all,60
+2010,[Private] Car,4-Post-Secondary,all,1353
+2010,[Private] School Bus/Van,4-Post-Secondary,all,165
+2010,Others,4-Post-Secondary,all,25
+2010,Others,4-Post-Secondary,all,1044
+2010,Others,4-Post-Secondary,all,2652
+2010,No Transport Required,4-Post-Secondary,all,1852
+2010,[Public] Bus,4-Post-Secondary,all,4156
+2010,[Public] MRT/LRT,4-Post-Secondary,all,2998
+2010,[Public] MRT/LRT & Bus,4-Post-Secondary,all,5649
+2010,[Public] Other combinations,4-Post-Secondary,all,217
+2010,[Private] Taxi/Hire Car,4-Post-Secondary,all,38
+2010,[Private] Car,4-Post-Secondary,all,534
+2010,[Private] School Bus/Van,4-Post-Secondary,all,59
+2010,Others,4-Post-Secondary,all,0
+2010,Others,4-Post-Secondary,all,279
+2010,Others,4-Post-Secondary,all,479
+2010,No Transport Required,4-Post-Secondary,all,390
+2010,[Public] Bus,5-University,all,16740
+2010,[Public] MRT/LRT,5-University,all,7369
+2010,[Public] MRT/LRT & Bus,5-University,all,29380
+2010,[Public] Other combinations,5-University,all,854
+2010,[Private] Taxi/Hire Car,5-University,all,201
+2010,[Private] Car,5-University,all,5716
+2010,[Private] School Bus/Van,5-University,all,181
+2010,Others,5-University,all,18
+2010,Others,5-University,all,685
+2010,Others,5-University,all,3635
+2010,No Transport Required,5-University,all,2611
+2020,[Public] Bus,1-Pre-Primary,all,6093
+2020,[Public] MRT/LRT,1-Pre-Primary,all,664
+2020,[Public] MRT/LRT & Bus,1-Pre-Primary,all,1032
+2020,[Public] Other combinations,1-Pre-Primary,all,445
+2020,[Private] Taxi/Hire Car,1-Pre-Primary,all,586
+2020,[Private] Car,1-Pre-Primary,all,12377
+2020,[Private] School Bus/Van,1-Pre-Primary,all,5308
+2020,Others,1-Pre-Primary,all,132
+2020,Others,1-Pre-Primary,all,68
+2020,Others,1-Pre-Primary,all,1073
+2020,No Transport Required,1-Pre-Primary,all,28077
+2020,[Public] Bus,2-Primary,all,38560
+2020,[Public] MRT/LRT,2-Primary,all,3624
+2020,[Public] MRT/LRT & Bus,2-Primary,all,7019
+2020,[Public] Other combinations,2-Primary,all,3168
+2020,[Private] Taxi/Hire Car,2-Primary,all,1751
+2020,[Private] Car,2-Primary,all,51709
+2020,[Private] School Bus/Van,2-Primary,all,33842
+2020,Others,2-Primary,all,542
+2020,Others,2-Primary,all,561
+2020,Others,2-Primary,all,3323
+2020,No Transport Required,2-Primary,all,101356
+2020,[Public] Bus,3-Secondary,all,64081
+2020,[Public] MRT/LRT,3-Secondary,all,12047
+2020,[Public] MRT/LRT & Bus,3-Secondary,all,38997
+2020,[Public] Other combinations,3-Secondary,all,5665
+2020,[Private] Taxi/Hire Car,3-Secondary,all,988
+2020,[Private] Car,3-Secondary,all,21531
+2020,[Private] School Bus/Van,3-Secondary,all,4061
+2020,Others,3-Secondary,all,242
+2020,Others,3-Secondary,all,228
+2020,Others,3-Secondary,all,932
+2020,No Transport Required,3-Secondary,all,24935
+2020,[Public] Bus,4-Post-Secondary,all,14542
+2020,[Public] MRT/LRT,4-Post-Secondary,all,6255
+2020,[Public] MRT/LRT & Bus,4-Post-Secondary,all,24906
+2020,[Public] Other combinations,4-Post-Secondary,all,2873
+2020,[Private] Taxi/Hire Car,4-Post-Secondary,all,282
+2020,[Private] Car,4-Post-Secondary,all,4395
+2020,[Private] School Bus/Van,4-Post-Secondary,all,461
+2020,Others,4-Post-Secondary,all,0
+2020,Others,4-Post-Secondary,all,514
+2020,Others,4-Post-Secondary,all,190
+2020,No Transport Required,4-Post-Secondary,all,1941
+2020,[Public] Bus,4-Post-Secondary,all,17629
+2020,[Public] MRT/LRT,4-Post-Secondary,all,11244
+2020,[Public] MRT/LRT & Bus,4-Post-Secondary,all,36090
+2020,[Public] Other combinations,4-Post-Secondary,all,2514
+2020,[Private] Taxi/Hire Car,4-Post-Secondary,all,122
+2020,[Private] Car,4-Post-Secondary,all,1241
+2020,[Private] School Bus/Van,4-Post-Secondary,all,75
+2020,Others,4-Post-Secondary,all,34
+2020,Others,4-Post-Secondary,all,730
+2020,Others,4-Post-Secondary,all,131
+2020,No Transport Required,4-Post-Secondary,all,2798
+2020,[Public] Bus,4-Post-Secondary,all,2290
+2020,[Public] MRT/LRT,4-Post-Secondary,all,1734
+2020,[Public] MRT/LRT & Bus,4-Post-Secondary,all,5562
+2020,[Public] Other combinations,4-Post-Secondary,all,373
+2020,[Private] Taxi/Hire Car,4-Post-Secondary,all,91
+2020,[Private] Car,4-Post-Secondary,all,308
+2020,[Private] School Bus/Van,4-Post-Secondary,all,16
+2020,Others,4-Post-Secondary,all,13
+2020,Others,4-Post-Secondary,all,124
+2020,Others,4-Post-Secondary,all,22
+2020,No Transport Required,4-Post-Secondary,all,845
+2020,[Public] Bus,5-University,all,13808
+2020,[Public] MRT/LRT,5-University,all,14837
+2020,[Public] MRT/LRT & Bus,5-University,all,51069
+2020,[Public] Other combinations,5-University,all,3728
+2020,[Private] Taxi/Hire Car,5-University,all,850
+2020,[Private] Car,5-University,all,4937
+2020,[Private] School Bus/Van,5-University,all,283
+2020,Others,5-University,all,0
+2020,Others,5-University,all,909
+2020,Others,5-University,all,332
+2020,No Transport Required,5-University,all,9092
